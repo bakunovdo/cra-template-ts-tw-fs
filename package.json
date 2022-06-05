@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-ts-tw-fs",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwind",
+    "feature-sliced"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bakunovdo/cra-template-ts-tw-fs"
+  },
+  "description": "The base CRA template with Typescript, Tailwind and Feautre Sliced Architecture",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
